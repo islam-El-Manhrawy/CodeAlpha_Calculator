@@ -7,7 +7,9 @@ A simple calculator program built in C as part of CodeAlpha Internship.
 - Subtraction
 - Multiplication
 - Division
-- Continuous operation until user exits
+- Power Calculation (x^y)
+- Solve Quadratic Equation (ax^2 + bx + c)
+- Continuous operation until user exits (While loop)
 
 ## How to Run
 1. Compile: gcc calculator.c -o calculator
