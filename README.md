@@ -8,8 +8,8 @@ A professional C-based calculator program built in C as part of CodeAlpha Intern
 - **Subtraction:** Subtract two numbers.
 - **Multiplication:** Multiply two numbers.
 - **Division:** Divide two numbers.
-- **Power Calculation:** Calculate the result of base raised to an exponent ($x^y$).
-- **Quadratic Equation Solver:** Solve quadratic equations ($ax^2 + bx + c = 0$) and find roots.
+- **Power Calculation:** Calculate the result of base raised to an exponent (x^y).
+- **Quadratic Equation Solver:** Solve quadratic equations (ax^2 + bx + c = 0) and find roots.
 - **Continuous Operation:** The program keeps running until the user chooses to exit.
 
 ## How to Run
